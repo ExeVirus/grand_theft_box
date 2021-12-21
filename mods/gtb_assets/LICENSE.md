@@ -1,3 +1,8 @@
+Theme.ogg is distributed under CC-BY-SA 4.0, Copyright 2021 Exevirus 
+copy of license: https://creativecommons.org/licenses/by-sa/4.0/
+
+All other assets and code are distributed under:
+
 MIT License
 
 Copyright (c) 2021 Jamiebearcub
