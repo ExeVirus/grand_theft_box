@@ -1,0 +1,3 @@
+[submodule "mods/gtb_bike"]
+	path = mods/gtb_bike
+	url = https://gitlab.com/ExeVirus/gtb-bike
